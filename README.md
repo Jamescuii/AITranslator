@@ -28,6 +28,12 @@ The project is structured as a command-line application for training, evaluating
 
 ## Setup and Installation
 
+- View the .ipynb File to see a DEMO of the program
+
+---
+
+## Setup and Installation
+
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/your-username/mandarin-cantonese-nmt.git](https://github.com/your-username/mandarin-cantonese-nmt.git)
